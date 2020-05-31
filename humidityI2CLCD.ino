@@ -12,7 +12,7 @@ DHT dht(DHTPIN, DHTTYPE);
 #define TEMPERATUREWARNING 4
 
 #define HUM_LOW_TH 30
-#define HUM_HIGH_TH 50
+#define HUM_HIGH_TH 60
 #define TEMP_LOW_TH 20
 #define TEMP_HIGH_TH 30
 

@@ -5,7 +5,7 @@ I do not have experience how to document breadboard information in digital forma
 When I have more information, I will update this accordingly.
 
 For now, this sketch measures the humidity and temperature from DHT22 sensor and displays it on the 16x2 LCD matrix display using the I2C interface.
-If humidity is below 30% or above 50% then blue LED flashing alarm will go on.
+If humidity is below 30% or above 60% then blue LED flashing alarm will go on.
 If temperature is below 20 and above 30 then red LED flashing alarm will go on.
 
 TODO: list all libraries that are used. For now, library for DHT sensor (DHT.h) and using LCD with I2C interface (LiquidCrystal_I2C.h)
